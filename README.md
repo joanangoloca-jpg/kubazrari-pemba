@@ -1,2 +1,2 @@
-# kubazrari-pemba
+# kubazari-pemba
 e um mercado
